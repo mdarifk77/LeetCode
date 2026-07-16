@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/mdarifk77/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/mdarifk77/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/mdarifk77/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/mdarifk77/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
