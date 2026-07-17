@@ -5,8 +5,10 @@ class Solution {
         int m = nums2.length;
         int i = 0;
         int j = 0;
+
         Arrays.sort(nums1);
         Arrays.sort(nums2);
+        
         ArrayList<Integer> ans = new ArrayList<>();
 
         while( i < n  &&  j < m){
