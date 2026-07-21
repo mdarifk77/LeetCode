@@ -12,12 +12,7 @@ class Solution {
             }
             j++;
         }
-        if( i == m ){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return i == m;
         
     }
 }
