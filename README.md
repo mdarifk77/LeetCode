@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mdarifk77/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdarifk77/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mdarifk77/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mdarifk77/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mdarifk77/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdarifk77/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mdarifk77/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/mdarifk77/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
