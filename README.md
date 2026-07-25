@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mdarifk77/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/mdarifk77/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mdarifk77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
