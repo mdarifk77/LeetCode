@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mdarifk77/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mdarifk77/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mdarifk77/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdarifk77/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/mdarifk77/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mdarifk77/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mdarifk77/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mdarifk77/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdarifk77/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mdarifk77/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/mdarifk77/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mdarifk77/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
