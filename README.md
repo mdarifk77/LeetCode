@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mdarifk77/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mdarifk77/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdarifk77/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/mdarifk77/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdarifk77/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/mdarifk77/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarifk77/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mdarifk77/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mdarifk77/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarifk77/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdarifk77/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarifk77/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
