@@ -1,16 +1,35 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) { 
 
-        int [] freq = new int [128];
+        //using approach frequency count:
+
+        // int [] freq = new int [128];
+
+        // for(int i = 0; i < jewels.length(); i++){
+        //     char ch = jewels.charAt(i);
+        //     freq[ch]++;
+        // }
+        // int count = 0;
+        // for(int i = 0; i < stones.length(); i++){
+        //     char ch = stones.charAt(i);
+        //     count += freq[ch];
+        // }
+        // return count;
+
+        // using approach HashSet:
+
+        HashSet <Character> set = new HashSet <>();
 
         for(int i = 0; i < jewels.length(); i++){
             char ch = jewels.charAt(i);
-            freq[ch]++;
+            set.add(ch);
         }
         int count = 0;
         for(int i = 0; i < stones.length(); i++){
             char ch = stones.charAt(i);
-            count += freq[ch];
+            if (set.contains(ch)){
+                count++;
+            }
         }
         return count;
         
