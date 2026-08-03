@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mdarifk77/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarifk77/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/mdarifk77/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mdarifk77/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdarifk77/LeetCode/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/mdarifk77/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
