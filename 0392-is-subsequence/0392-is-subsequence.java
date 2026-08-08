@@ -6,13 +6,12 @@ class Solution {
         int m = s.length();
         int n = t.length();
 
-        while( i < m && j < n){
-            if( s.charAt(i) == t.charAt(j)){
+        while(i < m && j < n){
+            if(s.charAt(i) == t.charAt(j)){
                 i++;
             }
             j++;
         }
         return i == m;
-        
     }
 }
