@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdarifk77/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/mdarifk77/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/mdarifk77/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/mdarifk77/LeetCode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/mdarifk77/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/mdarifk77/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/mdarifk77/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/mdarifk77/LeetCode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/mdarifk77/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mdarifk77/LeetCode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/mdarifk77/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/mdarifk77/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/mdarifk77/LeetCode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/mdarifk77/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdarifk77/LeetCode/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/mdarifk77/LeetCode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
