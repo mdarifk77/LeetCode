@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mdarifk77/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mdarifk77/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mdarifk77/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/mdarifk77/LeetCode/tree/master/0396-rotate-function) |
 ## Counting
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mdarifk77/LeetCode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
