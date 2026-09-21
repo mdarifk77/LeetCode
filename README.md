@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/mdarifk77/LeetCode/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/mdarifk77/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarifk77/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mdarifk77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/mdarifk77/LeetCode/tree/master/0396-rotate-function) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mdarifk77/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarifk77/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting
 |  |
 | ------- |
