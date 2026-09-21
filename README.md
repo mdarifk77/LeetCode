@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mdarifk77/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/mdarifk77/LeetCode/tree/master/0396-rotate-function) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mdarifk77/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Counting
 |  |
 | ------- |
