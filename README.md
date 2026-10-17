@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/mdarifk77/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mdarifk77/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mdarifk77/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/mdarifk77/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/mdarifk77/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/mdarifk77/LeetCode/tree/master/0412-fizz-buzz) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mdarifk77/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mdarifk77/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/mdarifk77/LeetCode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mdarifk77/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
