@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mdarifk77/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/mdarifk77/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/mdarifk77/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/mdarifk77/LeetCode/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/mdarifk77/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarifk77/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/mdarifk77/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/mdarifk77/LeetCode/tree/master/0412-fizz-buzz) |
+| [0989-add-to-array-form-of-integer](https://github.com/mdarifk77/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mdarifk77/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarifk77/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mdarifk77/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
