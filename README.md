@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mdarifk77/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/mdarifk77/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/mdarifk77/LeetCode/tree/master/1089-duplicate-zeros) |
+| [2000-reverse-prefix-of-word](https://github.com/mdarifk77/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mdarifk77/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/mdarifk77/LeetCode/tree/master/1002-find-common-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/mdarifk77/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/mdarifk77/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
