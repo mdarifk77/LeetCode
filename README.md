@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mdarifk77/LeetCode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/mdarifk77/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/mdarifk77/LeetCode/tree/master/1002-find-common-characters) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarifk77/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/mdarifk77/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/mdarifk77/LeetCode/tree/master/1002-find-common-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/mdarifk77/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarifk77/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mdarifk77/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mdarifk77/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarifk77/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarifk77/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Queue
 |  |
 | ------- |
