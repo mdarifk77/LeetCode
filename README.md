@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarifk77/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mdarifk77/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mdarifk77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mdarifk77/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mdarifk77/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/mdarifk77/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/mdarifk77/LeetCode/tree/master/1002-find-common-characters) |
 | [1512-number-of-good-pairs](https://github.com/mdarifk77/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mdarifk77/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarifk77/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Binary Search
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarifk77/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mdarifk77/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mdarifk77/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mdarifk77/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mdarifk77/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mdarifk77/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Counting
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mdarifk77/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdarifk77/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/mdarifk77/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mdarifk77/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mdarifk77/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Queue
 |  |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mdarifk77/LeetCode/tree/master/0258-add-digits) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/mdarifk77/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Recursion
 |  |
 | ------- |
