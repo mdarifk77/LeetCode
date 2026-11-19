@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public long interchangeableRectangles(int[][] rectangles) {
 
