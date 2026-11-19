@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mdarifk77/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mdarifk77/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mdarifk77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mdarifk77/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
 |  |
 | ------- |
