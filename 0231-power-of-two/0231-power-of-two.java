@@ -8,6 +8,9 @@ class Solution {
         // }
         // return n == 1;
 
+
+        // Bit manipulation solution:
+        
         return n > 0 && (n & (n - 1)) == 0;
         
     }
