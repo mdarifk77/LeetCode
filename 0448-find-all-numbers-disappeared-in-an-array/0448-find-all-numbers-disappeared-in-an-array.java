@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-
+        
         int n = nums.length;
         int [] freq = new int[n+1];
         for ( int num : nums){
@@ -13,6 +13,5 @@ class Solution {
             }
         }
         return ans;
-        
     }
 }
